@@ -83,7 +83,6 @@ After editing `cd.py`, run `./install.sh` again. It restarts the background copy
 - The shortcut setup is GNOME-specific. On other desktops, bind `cd-launcher` to a key yourself.
 
 
-made by [!amrqhz](amrqhz.github,io)
-## License
+made by [amrqhz](amrqhz.github,io)
+project repo:[cd-luncher](https://github.com/Amrqhz/cd-luncher) 
 
-Do what you like with it.

@@ -84,5 +84,6 @@ After editing `cd.py`, run `./install.sh` again. It restarts the background copy
 
 
 made by [amrqhz](amrqhz.github,io)
-project repo:[cd-luncher](https://github.com/Amrqhz/cd-luncher) 
+</br>
+project repo:[cd-launcher](https://github.com/Amrqhz/cd-launcher) 
 
